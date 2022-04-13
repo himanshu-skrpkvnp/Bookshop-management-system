@@ -997,8 +997,10 @@ void sal_menu()
 	int c;
 	sales s;
 	cout << "*************************************************" << endl;
+	cout <<"**************************************************" << endl;
 	cout << "                 SALES MENU" << endl;
 	cout << "*************************************************" << endl;
+	cout <<"**************************************************" << endl;
 	cout << "   1. Add New Bill" << endl;
 	cout << "   2. Total Sales Of The Year" << endl;
 	cout << "   3. RETURN TO MAIN MENU" << endl << endl << endl;
